@@ -34,14 +34,14 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["laminar-meg"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["MEG", "laminae"]
 
 # Links (optional).
-url_pdf = "https://elifesciences.org/articles/33977"
+url_pdf = "../../../files/elife-33977-v1.pdf"
 url_preprint = "https://www.biorxiv.org/content/early/2017/11/30/226274"
 url_code = "https://github.com/jbonaiuto/meg-laminar"
 url_dataset = "http://dx.doi.org/10.23686/0015896"

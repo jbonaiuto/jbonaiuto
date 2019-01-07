@@ -7,6 +7,18 @@ date = 2016-04-20T00:00:00
 # Order that this section will appear in.
 weight = 5
 
+[interests]
+  interests = [
+    "motor control",
+    "action based decision making",
+    "oscillations",
+    "beta bursts",
+    "MEG",
+    "computational modeling",
+    "noninvasive brain stimulation",
+    "neuroinformatics"
+  ]
+  
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Neuroscience"

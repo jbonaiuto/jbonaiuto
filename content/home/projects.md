@@ -4,7 +4,7 @@ widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Projects"
+title = "Research"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -41,12 +41,20 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = "Deep Learning"
+  name = "MEG"
+  tag = "MEG"
+  
+[[filter]]
+  name = "EEG"
+  tag = "EEG"
 
 [[filter]]
-  name = "Other"
-  tag = "Demo"
+  name = "Computational"
+  tag = "computational model"
+  
+[[filter]]
+  name = "Noninvasive Brain Stimulation"
+  tag = "tDCS"
 
 +++
 
