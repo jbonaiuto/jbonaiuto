@@ -34,4 +34,4 @@ weight = 5
 
 # Biography
 
-James Bonaiuto is postdoctoral researcher in neuroscience at the Institut des Sciences Cognitives - Marc Jeannerod, CNRS. His research interests include motor control, action-based decision making, and cortical beta activity.
+James Bonaiuto is postdoctoral researcher in neuroscience at the Institut des Sciences Cognitives - Marc Jeannerod, CNRS. His research interests include motor control, action-based decision making, and cortical beta activity. He has recently obtained an ERC Consolidator Grant (ECoG-2019) to study sensorimotor beta bursts in terms of mechanisms, functional role, and development.
