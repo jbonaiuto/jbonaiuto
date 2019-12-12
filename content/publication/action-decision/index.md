@@ -1,10 +1,10 @@
 +++
-title = "Human motor cortical beta bursts relate to movement planning and response errors"
+title = "A Biologically Plausible Computational Theory for Value Integration and Action Selection in Decisions with Competing Alternatives"
 date = 2015-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["S Little", "JJ Bonaiuto", "GR Barnes", "S Bestmann"]
+authors = ["V Christopoulos", "JJ Bonaiuto", "RA Andersen"]
 
 # Publication type.
 # Legend:
@@ -18,15 +18,15 @@ authors = ["S Little", "JJ Bonaiuto", "GR Barnes", "S Bestmann"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *PLOS Biology*"
-publication_short = "In *PLOS Biology*"
+publication = "In *PLOS Computational Biology*"
+publication_short = "In *PLOS Computational Biology*"
 
 # Abstract and optional shortened version.
-abstract = "Motor cortical beta activity (13–30 Hz) is a hallmark signature of healthy and pathological movement, but its behavioural relevance remains unclear. Using high-precision magnetoencephalography (MEG), we show that during the classical event-related desynchronisation (ERD) and event-related synchronisation (ERS) periods, motor cortical beta activity in individual trials (n > 12,000) is dominated by high amplitude, transient, and infrequent bursts. Beta burst probability closely matched the trial-averaged beta amplitude in both the pre- and post-movement periods, but individual bursts were spatially more focal than the classical ERS peak. Furthermore, prior to movement (ERD period), beta burst timing was related to the degree of motor preparation, with later bursts resulting in delayed response times. Following movement (ERS period), the first beta burst was delayed by approximately 100 milliseconds when an incorrect response was made. Overall, beta burst timing was a stronger predictor of single trial behaviour than beta burst rate or single trial beta amplitude. This transient nature of motor cortical beta provides new constraints for theories of its role in information processing within and across cortical circuits, and its functional relevance for behaviour in both healthy and pathological movement."
-abstract_short = "Motor cortical beta activity (13–30 Hz) is a hallmark signature of healthy and pathological movement, but its behavioural relevance remains unclear. Using high-precision magnetoencephalography (MEG), we show that during the classical event-related desynchronisation (ERD) and event-related synchronisation (ERS) periods, motor cortical beta activity in individual trials (n > 12,000) is dominated by high amplitude, transient, and infrequent bursts. Beta burst probability closely matched the trial-averaged beta amplitude in both the pre- and post-movement periods, but individual bursts were spatially more focal than the classical ERS peak. Furthermore, prior to movement (ERD period), beta burst timing was related to the degree of motor preparation, with later bursts resulting in delayed response times. Following movement (ERS period), the first beta burst was delayed by approximately 100 milliseconds when an incorrect response was made. Overall, beta burst timing was a stronger predictor of single trial behaviour than beta burst rate or single trial beta amplitude. This transient nature of motor cortical beta provides new constraints for theories of its role in information processing within and across cortical circuits, and its functional relevance for behaviour in both healthy and pathological movement."
+abstract = "Decision making is a vital component of human and animal behavior that involves selecting between alternative options and generating actions to implement the choices. Although decisions can be as simple as choosing a goal and then pursuing it, humans and animals usually have to make decisions in dynamic environments where the value and the availability of an option change unpredictably with time and previous actions. A predator chasing multiple prey exemplifies how goals can dynamically change and compete during ongoing actions. Classical psychological theories posit that decision making takes place within frontal areas and is a separate process from perception and action. However, recent findings argue for additional mechanisms and suggest the decisions between actions often emerge through a continuous competition within the same brain regions that plan and guide action execution. According to these findings, the sensorimotor system generates concurrent action-plans for competing goals and uses online information to bias the competition until a single goal is pursued. This information is diverse, relating to both the dynamic value of the goal and the cost of acting, creating a challenging problem in integrating information across these diverse variables in real time. We introduce a computational framework for dynamically integrating value information from disparate sources in decision tasks with competing actions. We evaluated the framework in a series of oculomotor and reaching decision tasks and found that it captures many features of choice/motor behavior, as well as its neural underpinnings that previously have eluded a common explanation."
+abstract_short = "Decision making is a vital component of human and animal behavior that involves selecting between alternative options and generating actions to implement the choices. Although decisions can be as simple as choosing a goal and then pursuing it, humans and animals usually have to make decisions in dynamic environments where the value and the availability of an option change unpredictably with time and previous actions. A predator chasing multiple prey exemplifies how goals can dynamically change and compete during ongoing actions. Classical psychological theories posit that decision making takes place within frontal areas and is a separate process from perception and action. However, recent findings argue for additional mechanisms and suggest the decisions between actions often emerge through a continuous competition within the same brain regions that plan and guide action execution. According to these findings, the sensorimotor system generates concurrent action-plans for competing goals and uses online information to bias the competition until a single goal is pursued. This information is diverse, relating to both the dynamic value of the goal and the cost of acting, creating a challenging problem in integrating information across these diverse variables in real time. We introduce a computational framework for dynamically integrating value information from disparate sources in decision tasks with competing actions. We evaluated the framework in a series of oculomotor and reaching decision tasks and found that it captures many features of choice/motor behavior, as well as its neural underpinnings that previously have eluded a common explanation."
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -34,21 +34,21 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["beta-bursts"]
+projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["MEG","action","beta burst","head-cast","motor control","source inversion"]
+tags = ["computational model","decision making","reaching","saccade","dynamic neural field"]
 
 # Links (optional).
-url_pdf = "../../../files/journal.pbio.3000479.pdf"
+url_pdf = "../../../files/journal.pcbi.1004104.pdf"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1101/384370"
+doi = "https://doi.org/10.1371/journal.pcbi.1004104"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -60,4 +60,3 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-
