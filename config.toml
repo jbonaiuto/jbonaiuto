@@ -26,7 +26,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-131924251-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -57,7 +57,7 @@ enableGitInfo = true
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Institut des Sciences Cognitives - Marc Jeannerod, CNRS", url = "http://cnc.isc.cnrs.fr/en/welcomme-to-umr-5229/" } ]
+  organizations = [ { name = "Institut des Sciences Cognitives - Marc Jeannerod, UMR 5229 CNRS", url = "http://cnc.isc.cnrs.fr/en/welcomme-to-umr-5229/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
