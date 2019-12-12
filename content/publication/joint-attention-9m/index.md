@@ -38,7 +38,7 @@ projects = ["dev-alpha"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["EEG","joint attention","alpha","mu","development","gaze","infant"]
+tags = ["EEG","joint attention","alpha","mu","development","gaze","infant","longitudinal"]
 
 # Links (optional).
 url_pdf = "../../../files/1-s2.0-S1878929318301737-main.pdf"
