@@ -38,7 +38,7 @@
   
   # Tags (optional).
   #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-  tags = ["MEG", "cortical column", "dipole orientation""]
+  tags = ["MEG", "cortical column", "dipole orientation"]
   
   # Links (optional).
   url_pdf = "../../../files/1-s2.0-S1053811920303487-main.pdf"
