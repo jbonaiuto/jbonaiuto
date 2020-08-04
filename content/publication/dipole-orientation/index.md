@@ -4,7 +4,7 @@
   draft = false
   
   # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-  authors = ["JJ Bonaiuto, F Afdideh, M Ferez, K Wagstyl, J Mattout, M Bonnefond, GR Barnes, S Bestmann""]
+  authors = ["JJ Bonaiuto, F Afdideh, M Ferez, K Wagstyl, J Mattout, M Bonnefond, GR Barnes, S Bestmann"]
   
   # Publication type.
   # Legend:
