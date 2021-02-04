@@ -34,4 +34,4 @@ weight = 5
 
 # Biography
 
-I am a chargé de recherche in neuroscience at the Institut des Sciences Cognitives - Marc Jeannerod, CNRS. My research interests include motor control, action-based decision making, and cortical beta activity. I have recently obtained an ERC Consolidator Grant (ECoG-2019) to study sensorimotor beta bursts in terms of mechanisms, functional role, and development. I'm always looking for interns, masters students, PhD students, and post-docs interested in computational modeling, neurophysiology, and M/EEG of the motor system. Contact me with expressions of interest.
+I am a charge de recherche in neuroscience at the Institut des Sciences Cognitives - Marc Jeannerod, CNRS. My research interests include motor control, action-based decision making, and cortical beta activity. I have recently obtained an ERC Consolidator Grant (ECoG-2019) to study sensorimotor beta bursts in terms of mechanisms, functional role, and development. I'm always looking for interns, masters students, PhD students, and post-docs interested in computational modeling, neurophysiology, and M/EEG of the motor system. Contact me with expressions of interest.
