@@ -40,6 +40,12 @@ enableGitInfo = true
   home = [ "HTML", "CSS", "RSS", "JSON" ]
   section = [ "HTML", "RSS" ]
 
+[[redirects]]
+  from = "https://jbonaiuto.com"
+  to = "https://danclab.com"
+  status = 301
+  force = true
+  
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
 [blackfriday]
@@ -53,7 +59,7 @@ enableGitInfo = true
 
   # Your details.
   name = "James (Jimmy) J. Bonaiuto"
-  role = "Chargé de recherche in Neuroscience"
+  role = "Charg? de recherche in Neuroscience"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
